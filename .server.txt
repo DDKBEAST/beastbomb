@@ -1,2 +1,2 @@
-#for checking up darkhack server
+#for checking up beastbomb server
 on
